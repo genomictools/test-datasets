@@ -1,5 +1,7 @@
-cohort,chrom,start,end,file,index,samples,phenotype
-pheno1,chr1,,,input/pheno.variants.vcf.gz,input/pheno.variants.vcf.gz.tbi,input/pheno.cases.txt,input/pheno.phenotypes.txt
-pheno2,chr2,,,input/pheno.variants.vcf.gz,input/pheno.variants.vcf.gz.tbi,input/pheno.cases.txt,input/pheno.phenotypes.txt
-pheno3,chr3,,,input/pheno.variants.vcf.gz,input/pheno.variants.vcf.gz.tbi,input/pheno.cases.txt,input/pheno.phenotypes.txt
-pheno4,chr3,1,20000000,input/pheno.variants.vcf.gz,input/pheno.variants.vcf.gz.tbi,input/pheno.cases.txt,input/pheno.phenotypes.txt
+cohort,chrom,start,end,genelist,file,index,samples,phenotype
+pheno1,chr1,,,input/genelist.txt,input/pheno.variants.vcf.gz,input/pheno.variants.vcf.gz.tbi,input/pheno.cases.txt,input/pheno.phenotypes.txt
+pheno2,chr1,,,input/genelist.txt,input/pheno.variants.vcf.gz,input/pheno.variants.vcf.gz.tbi,input/pheno.cases.txt,input/pheno.phenotypes.txt
+pheno2,chr2,,,input/genelist.txt,input/pheno.variants.vcf.gz,input/pheno.variants.vcf.gz.tbi,input/pheno.cases.txt,input/pheno.phenotypes.txt
+pheno3,chr3,,,input/genelist.txt,input/pheno.variants.vcf.gz,input/pheno.variants.vcf.gz.tbi,input/pheno.cases.txt,input/pheno.phenotypes.txt
+pheno4,chr3,1,20000000,input/genelist.txt,input/pheno.variants.vcf.gz,input/pheno.variants.vcf.gz.tbi,input/pheno.cases.txt,input/pheno.phenotypes.txt
+pheno5,chr1,,,input/genelist.txt,input/pheno.variants.vcf.gz,input/pheno.variants.vcf.gz.tbi,input/pheno.cases.txt,input/pheno.phenotypes.txt
