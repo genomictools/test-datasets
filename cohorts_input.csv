@@ -1,0 +1,4 @@
+famid,cases,pedigree,category,rlist,annotation
+FAM01,input/FAM01.cases.txt,input/FAM01.ped,Rare,input/FAM01.Rare.rlist.tsv,input/FAM01.Rare.annotations.tsv
+FAM02,input/FAM02.cases.txt,input/FAM02.ped,Rare,input/FAM02.Rare.rlist.tsv,input/FAM02.Rare.annotations.tsv
+FAM03,input/FAM03.cases.txt,input/FAM03.ped,Rare,input/FAM03.Rare.rlist.tsv,input/FAM03.Rare.annotations.tsv
