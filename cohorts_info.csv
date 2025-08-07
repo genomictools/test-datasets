@@ -1,0 +1,4 @@
+cohort,key,category,file,index,n_samples,n_variants,phenotype
+pheno,chunk1,Unfiltered,input/pheno1.chunk.1.Unfiltered.vcf.gz,input/pheno1.chunk.1.Unfiltered.vcf.gz.tbi,,,input/pheno.ped
+pheno,chunk2,Unfiltered,input/pheno1.chunk.2.Unfiltered.vcf.gz,input/pheno1.chunk.2.Unfiltered.vcf.gz.tbi,,,input/pheno.ped
+pheno,chunk3,Unfiltered,input/pheno1.chunk.3.Unfiltered.vcf.gz,input/pheno1.chunk.3.Unfiltered.vcf.gz.tbi,,,input/pheno.ped
