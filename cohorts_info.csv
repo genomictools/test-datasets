@@ -1,0 +1,3 @@
+cohort,type,size,vars_file,vars_index,population
+test,cases,100,input/test.vcf.gz,input/test.vcf.gz.tbi,input/test.population.txt
+1kg,references,1779,input/1kg.vcf.gz,input/1kg.vcf.gz.tbi,input/1kg.population.txt
