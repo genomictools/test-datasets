@@ -1,0 +1,2 @@
+cohort,category,snps,traits,covariates
+test,all,input/SNP.txt,input/GE.txt,input/Covariates.txt
