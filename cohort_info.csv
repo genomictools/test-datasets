@@ -1,0 +1,5 @@
+cohort,variant,organism,ontology,assay,sequence_length
+test,chr22:36201698:A:C,human,UBERON:0001157,RNA_SEQ,1MB
+test,chr22:36201698:A:G,human,UBERON:0001157,RNA_SEQ,1MB
+test,chr22:36201698:A:C,human,UBERON:0004907,CHIP_TF,1MB
+test,chr22:36201698:A:C,human,UBERON:0001157,RNA_SEQ,500KB
