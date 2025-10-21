@@ -1,0 +1,8 @@
+cohort,key,level,file,pedigree
+trio1,mother,raw,input/mother.txt,input/trio1.ped
+trio1,father,raw,input/father.txt,input/trio1.ped
+trio1,offspring,raw,input/offspring.txt,input/trio1.ped
+quartet1,mother,raw,input/mother.txt,input/quartet1.ped
+quartet1,father,raw,input/father.txt,input/quartet1.ped
+quartet1,offspring1,raw,input/offspring1.txt,input/quartet1.ped
+quartet1,offspring2,raw,input/offspring2.txt,input/quartet1.ped

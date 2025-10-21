@@ -1,0 +1,6 @@
+cohort,key,level,file,pedigree
+pheno1,sample1,gtc,input/sample1.gtc.txt,input/pheno1.pedigree.ped
+pheno1,sample2,gtc,input/sample2.gtc.txt,input/pheno1.pedigree.ped
+pheno1,sample3,gtc,input/sample3.gtc.txt,input/pheno1.pedigree.ped
+pheno2,sample4,gtc,input/sample4.gtc.txt,input/pheno2.pedigree.ped
+pheno2,sample5,gtc,input/sample5.gtc.txt,input/pheno2.pedigree.ped

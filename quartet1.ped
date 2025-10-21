@@ -1,0 +1,4 @@
+trio1 father 0 0 1
+trio1 mother 0 0 2
+trio1 offspring1 father mother 1
+trio1 offspring2 father mother 1
