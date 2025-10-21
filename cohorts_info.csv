@@ -1,0 +1,4 @@
+famid,phenotype,chrom,freq,bim,bed,fam
+FAM01,pheno,chr1,input/FAM01.pheno.freq.txt,input/FAM01.pheno.bim,input/FAM01.pheno.bed,input/FAM01.pheno.fam
+FAM02,pheno,chr1,input/FAM02.pheno.freq.txt,input/FAM02.pheno.bim,input/FAM02.pheno.bed,input/FAM02.pheno.fam
+FAM03,pheno,chr1,input/FAM03.pheno.freq.txt,input/FAM03.pheno.bim,input/FAM03.pheno.bed,input/FAM03.pheno.fam
