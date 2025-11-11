@@ -1,7 +1,4 @@
 sample_name	url
-SJBALL031914_G1	https://westus.dl.azure.dnanex.us/F/DSYM/7P4y2kb8b0GjQp2654zXKGgk05v72pKb9vK1kfPB/SJBALL031914_G1.Exome.g.vcf.gz
-SJBALL031914_G1	https://westus.dl.azure.dnanex.us/F/DSYM/3q2vJ121Xj6vf252P7Fffg8G8Zx8PqJ4VPPKq47y/SJBALL031914_G1.Exome.g.vcf.gz.tbi
-SJBALL032416_G1	https://westus.dl.azure.dnanex.us/F/DSYM/F2f8pkQQZ3Qj5fy5P2ZBkPp3f89jggxgf0byxxJ5/SJBALL032416_G1.Exome.g.vcf.gz.tbi
-SJBALL032416_G1	https://westus.dl.azure.dnanex.us/F/DSYM/0V1K29K5g5k18G4ZJp3YfjkXGkVy7VK2Q30ygPg1/SJBALL032416_G1.Exome.g.vcf.gz
-SJBALL030349_G1	https://westus.dl.azure.dnanex.us/F/DSYM/1q9f46pV5X7KG9jxfz6vpzpXpXZjGB9Kj76B9q49/SJBALL030349_G1.Exome.g.vcf.gz.tbi
-SJBALL030349_G1	https://westus.dl.azure.dnanex.us/F/DSYM/p040k3yJjK75PK8Qj9K1q84FP75VZ68VPbY0x4Yj/SJBALL030349_G1.Exome.g.vcf.gz
+SJWLM030545_G1	https://westus.dl.azure.dnanex.us/F/DSYM/0XG4KkJvK5jZjpfxQ82BQ3xvV7KZ11Yv26PYGX3K/SJWLM030545_G1.Exome.g.vcf.gz.tbi
+SJWLM034112_G1	https://westus.dl.azure.dnanex.us/F/DSYM/Y73B4VVbF25qK3x8qK6G5q8xjGG7F7Jp83kpp5V2/SJWLM034112_G1.Exome.g.vcf.gz.tbi
+SJWLM031928_G1	https://westus.dl.azure.dnanex.us/F/DSYM/JXgBQG8ByFxgfYv01Yz3PGpybQXFx05xbPBY3303/SJWLM031928_G1.WholeGenome.g.vcf.gz.tbi
