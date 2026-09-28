@@ -1,5 +1,5 @@
 cohort,type,size,category,file
-pheno,cases,100,categoryA,input/pheno.categoryA.aggregate.tsv
-pheno,cases,100,categoryB,input/pheno.categoryB.aggregate.tsv
-general,controls,1000,categoryA,input/general.categoryA.aggregate.tsv
-general,controls,1000,categoryB,input/general.categoryB.aggregate.tsv
+pheno,cases,100,categoryA,test-datasets/pheno.categoryA.aggregate.tsv
+pheno,cases,100,categoryB,test-datasets/pheno.categoryB.aggregate.tsv
+general,controls,1000,categoryA,test-datasets/general.categoryA.aggregate.tsv
+general,controls,1000,categoryB,test-datasets/general.categoryB.aggregate.tsv
