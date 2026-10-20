@@ -1,0 +1,3 @@
+gene,gene_coords,exon_coords
+reference,input/reference.gene.bed,input/reference.exon.bed
+test,input/test.gene.bed,input/test.exon.bed
