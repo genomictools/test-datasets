@@ -1,2 +1,2 @@
 cohort,key,category,file,index,n_samples,n_variants,pedigree,phenotypes
-pheno,chunk1,Unfiltered,input/pheno.unfiltered.vcf.gz,input/pheno.unfiltered.vcf.gz.tbi,,,input/pheno.ped,input/pheno.tsv
+pheno,chunk1,Unfiltered,test-datasets/pheno.unfiltered.vcf.gz,test-datasets/pheno.unfiltered.vcf.gz.tbi,,,test-datasets/pheno.ped,test-datasets/pheno.tsv
